@@ -1,0 +1,3 @@
+﻿  lyquocdat.cpp
+C:\Users\nguoi\Desktop\Doantinhoc1\Doantinhoc1_LyQuocDat\Doantinhoc1_LyQuocDat\lyquocdat.cpp(134,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Doantinhoc1_LyQuocDat.vcxproj -> C:\Users\nguoi\Desktop\Doantinhoc1\Doantinhoc1_LyQuocDat\Debug\Doantinhoc1_LyQuocDat.exe
